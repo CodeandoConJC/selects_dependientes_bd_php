@@ -55,9 +55,8 @@ No se requiere instalación, solamente que los archivos esten ubicados en las ru
 
 Javier Chuc. Codeando con JC
 
-JQuery. Es una biblioteca multiplataforma para JavaScript, que permite de manera simple interactuar con los elementos del DOM (Document Object Model) de HTML.
-URL: https://jquery.com/
-
+Bootstrap es un framework multiplataforma para creación de sitios web. 
+URL https://getbootstrap.com/
 
 ## Licencia
 
